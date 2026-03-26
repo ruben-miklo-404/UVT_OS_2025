@@ -1,0 +1,2 @@
+This is a line written with fprintf
+This is binary data written with fwrite
